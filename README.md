@@ -1,6 +1,7 @@
 # Kotlin-MVVM-Base-Template
 
-[![Android CI](https://github.com/SeuUsuario/Kotlin-MVVM-Base-Template/actions/workflows/android.yml/badge.svg)](https://github.com/SeuUsuario/Kotlin-MVVM-Base-Template/actions/workflows/android.yml)
+[![Android CI](https://github.com/VirtroidDidi/Kotlin-MVVM-Base-Template/actions/workflows/android.yml/badge.svg)](https://github.com/VirtroidDidi/Kotlin-MVVM-Base-Template/actions/workflows/android.yml)
+
 
 ## 🎯 Objetivo do Projeto
 
